@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BD+zV+WXecB/TRuESzIfki7LgL4a8Qit+dp/AuW98Fo/FvqUmwtrCfM2SAiWr+GbUGcogVWWNIDIoQEPZZX2KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ducva\\Downloads\\Subloader-1.6.1\\Subloader-1.6.1\\SubloaderWpf\\SubloaderWpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ducva\\.nuget\\packages\\fastenshtein\\1.0.0.8\\fastenshtein.1.0.0.8.nupkg.sha512",
+    "C:\\Users\\ducva\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.31\\microsoft.windows.sdk.net.ref.10.0.17763.31.nupkg.sha512"
+  ],
+  "logs": []
+}

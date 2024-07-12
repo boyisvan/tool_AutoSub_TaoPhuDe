@@ -1,0 +1,9 @@
+C:\Users\ducva\Downloads\Subloader-1.6.1\Subloader-1.6.1\OpenSubtitlesSharp\bin\Debug\net8.0\OpenSubtitlesSharp.deps.json
+C:\Users\ducva\Downloads\Subloader-1.6.1\Subloader-1.6.1\OpenSubtitlesSharp\bin\Debug\net8.0\OpenSubtitlesSharp.dll
+C:\Users\ducva\Downloads\Subloader-1.6.1\Subloader-1.6.1\OpenSubtitlesSharp\obj\Debug\net8.0\OpenSubtitlesSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducva\Downloads\Subloader-1.6.1\Subloader-1.6.1\OpenSubtitlesSharp\obj\Debug\net8.0\OpenSubtitlesSharp.AssemblyInfoInputs.cache
+C:\Users\ducva\Downloads\Subloader-1.6.1\Subloader-1.6.1\OpenSubtitlesSharp\obj\Debug\net8.0\OpenSubtitlesSharp.AssemblyInfo.cs
+C:\Users\ducva\Downloads\Subloader-1.6.1\Subloader-1.6.1\OpenSubtitlesSharp\obj\Debug\net8.0\OpenSubtitlesSharp.csproj.CoreCompileInputs.cache
+C:\Users\ducva\Downloads\Subloader-1.6.1\Subloader-1.6.1\OpenSubtitlesSharp\obj\Debug\net8.0\OpenSubtitlesSharp.dll
+C:\Users\ducva\Downloads\Subloader-1.6.1\Subloader-1.6.1\OpenSubtitlesSharp\obj\Debug\net8.0\refint\OpenSubtitlesSharp.dll
+C:\Users\ducva\Downloads\Subloader-1.6.1\Subloader-1.6.1\OpenSubtitlesSharp\obj\Debug\net8.0\ref\OpenSubtitlesSharp.dll

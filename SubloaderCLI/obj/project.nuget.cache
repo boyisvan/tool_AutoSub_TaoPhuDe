@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQbDJgb6MAgzDZPvs4qRNhUWge+RI+50uFm4gDlKG5soDu81ZRbBi8S/86YxXPu0A6e9zUpLLbuy00z71JftRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ducva\\Downloads\\Subloader-1.6.1\\Subloader-1.6.1\\SubloaderCLI\\SubloaderCLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ducva\\.nuget\\packages\\fastenshtein\\1.0.0.8\\fastenshtein.1.0.0.8.nupkg.sha512",
+    "C:\\Users\\ducva\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}

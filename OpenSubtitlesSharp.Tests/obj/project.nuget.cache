@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQkiQVTf90iDfyPIEkTcEDFfTGZ0Q3cIhaSFCT9YDSB7603H6k3aQzNqnqax1TRrE3ueaGgOxOYJqYXE8GbSBQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ducva\\Downloads\\Subloader-1.6.1\\Subloader-1.6.1\\OpenSubtitlesSharp.Tests\\OpenSubtitlesSharp.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OpenSubtitlesSharp is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project OpenSubtitlesSharp supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "OpenSubtitlesSharp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

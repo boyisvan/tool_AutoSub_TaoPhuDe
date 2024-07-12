@@ -1,0 +1,5 @@
+<ResourceDictionary
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:cmp="clr-namespace:SubloaderAvalonia.CustomComponents"
+    xmlns:vm="clr-namespace:SubloaderAvalonia.ViewModels" />
